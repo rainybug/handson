@@ -1,0 +1,61 @@
+filename,latex
+CROHME23/IMG/train/CROHME2023/form_001_E1.png,\frac{3+z^2}{8}
+CROHME23/IMG/train/CROHME2023/form_001_E2.png,y = \sqrt{y_i y^i}
+CROHME23/IMG/train/CROHME2023/form_001_E3.png,cyc
+CROHME23/IMG/train/CROHME2023/form_001_E4.png,9.18 \times 10^{-5}
+CROHME23/IMG/train/CROHME2023/form_001_E5.png,e^{k(u)}= \frac{e^{2 u}-b^2}{e^{2 u}+b^2}
+CROHME23/IMG/train/CROHME2023/form_001_E6.png,-\frac{5}{4}
+CROHME23/IMG/train/CROHME2023/form_001_E7.png,\tan(x) \lt \alpha
+CROHME23/IMG/train/CROHME2023/form_001_E8.png,x^6 = + \infty
+CROHME23/IMG/train/CROHME2023/form_002_E9.png,a=\sqrt{\frac{6\sqrt{3}}{5}}
+CROHME23/IMG/train/CROHME2023/form_002_E10.png,4+x
+CROHME23/IMG/train/CROHME2023/form_002_E11.png,\sum_{a=1}^{F(r)}C_{a}=r^{8}
+CROHME23/IMG/train/CROHME2023/form_002_E12.png,\int c_i
+CROHME23/IMG/train/CROHME2023/form_002_E13.png,g={\frac{1}{2}}(n-1)(n-2)
+CROHME23/IMG/train/CROHME2023/form_002_E14.png,\sin^2{y}
+CROHME23/IMG/train/CROHME2023/form_002_E15.png,b\leq a+1
+CROHME23/IMG/train/CROHME2023/form_002_E16.png,\frac{32}{3}h(2h+1)(4h+1)(4h+3)
+CROHME23/IMG/train/CROHME2023/form_003_E17.png,g(x)=\beta_{ab}x^ax^b
+CROHME23/IMG/train/CROHME2023/form_003_E18.png,-\frac3{32}
+CROHME23/IMG/train/CROHME2023/form_003_E19.png,\alpha=-\frac {1}{4}(1-x)
+CROHME23/IMG/train/CROHME2023/form_003_E20.png,\frac {17 }{ 44}
+CROHME23/IMG/train/CROHME2023/form_003_E21.png,(y-a_1)(y-a_2)=0
+CROHME23/IMG/train/CROHME2023/form_003_E22.png,\frac{4\pi l}{g^2}\sqrt{v^2+V^2}
+CROHME23/IMG/train/CROHME2023/form_003_E23.png,"(0,x_2-x_1,x_3-x_1,x_4-x_1)"
+CROHME23/IMG/train/CROHME2023/form_003_E24.png,b\geq0
+CROHME23/IMG/train/CROHME2023/form_004_E25.png,"x^a = (x^1,\ldots,x^{p-1} )"
+CROHME23/IMG/train/CROHME2023/form_004_E26.png,m^2 = n_1 +n_2 + \ldots +n_r -1
+CROHME23/IMG/train/CROHME2023/form_004_E27.png,\tan\theta/2
+CROHME23/IMG/train/CROHME2023/form_004_E28.png,x^{(j)} \geq x^{(j+1)}
+CROHME23/IMG/train/CROHME2023/form_004_E29.png,\sin(\pi j)
+CROHME23/IMG/train/CROHME2023/form_004_E30.png,2f-e_1-e_3+2e_6+e_7+2e_9
+CROHME23/IMG/train/CROHME2019/001-equation000.png,$y = Ax + A^2$
+CROHME23/IMG/train/CROHME2019/001-equation001.png,$B_n(1-x)=(-1)^n B_n(x)$
+CROHME23/IMG/train/CROHME2019/001-equation002.png,"$\forall x \in A, \forall y \in B, x<y$"
+CROHME23/IMG/train/CROHME2019/001-equation003.png,"$\forall a , \forall b , \forall c , ( a , b , c ) = ( ( a , b ) , c )$"
+CROHME23/IMG/train/CROHME2019/001-equation004.png,"$\exists Y, Y > j$"
+CROHME23/IMG/train/CROHME2019/001-equation005.png,$(A_2B_1)$
+CROHME23/IMG/train/CROHME2019/001-equation006.png,$A = B \times C$
+CROHME23/IMG/train/CROHME2019/001-equation007.png,$\forall y\in A$
+CROHME23/IMG/train/CROHME2019/001-equation008.png,$\cos(A+B)$
+CROHME23/IMG/train/CROHME2019/001-equation009.png,"$\exists i, C_1[i] < C_2[i]$"
+CROHME23/IMG/train/CROHME2019/001-equation0010.png,$0 < x < 1$
+CROHME23/IMG/train/CROHME2019/001-equation0011.png,$A ( B + C ) = A B + A C$
+CROHME23/IMG/train/CROHME2019/001-equation0012.png,$A\times B$
+CROHME23/IMG/train/CROHME2019/001-equation0013.png,$A_2>B_2$
+CROHME23/IMG/train/CROHME2019/2_em_3.png,$\{ T \}$
+CROHME23/IMG/train/CROHME2019/2_em_7.png,$\{u\}$
+CROHME23/IMG/train/CROHME2019/002-equation000.png,$\gamma < B$
+CROHME23/IMG/train/CROHME2019/002-equation001.png,$\gamma>\gamma_0>0$
+CROHME23/IMG/train/CROHME2019/002-equation002.png,"$\exists \alpha, \forall x \in [a,b]$"
+CROHME23/IMG/train/CROHME2019/002-equation003.png,$0<\gamma_i < \alpha$
+CROHME23/IMG/train/CROHME2019/002-equation004.png,"$A_1,A_2,\ldots,A_n$"
+CROHME23/IMG/train/CROHME2019/002-equation005.png,"$\frac{d}{dt}\{A,B\} = \{\frac{dA}{dt},B \}+ \{A,\frac{dB}{dt} \}$"
+CROHME23/IMG/train/CROHME2019/002-equation006.png,$t_2 > t_1 > t_0$
+CROHME23/IMG/train/CROHME2019/002-equation007.png,$y^n<x B^k$
+CROHME23/IMG/train/CROHME2019/002-equation008.png,$0\leq b<B$
+CROHME23/IMG/train/CROHME2019/002-equation009.png,$A = A_1 + A_2$
+CROHME23/IMG/train/CROHME2019/002-equation010.png,"$\forall a\in A, \forall b\in B, a < b$"
+CROHME23/IMG/train/CROHME2019/002-equation011.png,$y_1(z)<y(z)<y_2(z)$
+CROHME23/IMG/train/CROHME2019/002-equation012.png,"$\forall t \in [0,2\pi], f(t) = e^{it}$"
+CROHME23/IMG/train/CROHME2019/002-equation013.png,$A \times (B \times C) = (A \times B) \times C$
